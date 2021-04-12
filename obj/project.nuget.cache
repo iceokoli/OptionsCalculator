@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "swPBomUV7lCNh59LzTC9goS458vkPsLrM4hF7fd9deEhirsaECr58jY6OK9J7CID54pGNzdOZyZ+xSBqkwf8TQ==",
+  "success": true,
+  "projectFilePath": "/Users/dev/Projects/BlackScholes/BlackScholes.csproj",
+  "expectedPackageFiles": [
+    "/Users/dev/.nuget/packages/mathnet.numerics/4.15.0/mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

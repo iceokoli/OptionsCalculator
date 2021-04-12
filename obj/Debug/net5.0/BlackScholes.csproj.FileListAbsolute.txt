@@ -1,0 +1,17 @@
+/Users/dev/Projects/BlackScholes/bin/Debug/net5.0/BlackScholes.deps.json
+/Users/dev/Projects/BlackScholes/bin/Debug/net5.0/BlackScholes.runtimeconfig.json
+/Users/dev/Projects/BlackScholes/bin/Debug/net5.0/BlackScholes.runtimeconfig.dev.json
+/Users/dev/Projects/BlackScholes/bin/Debug/net5.0/BlackScholes.dll
+/Users/dev/Projects/BlackScholes/bin/Debug/net5.0/ref/BlackScholes.dll
+/Users/dev/Projects/BlackScholes/bin/Debug/net5.0/BlackScholes.pdb
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/BlackScholes.csprojAssemblyReference.cache
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/BlackScholes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/BlackScholes.AssemblyInfoInputs.cache
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/BlackScholes.AssemblyInfo.cs
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/BlackScholes.csproj.CoreCompileInputs.cache
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/BlackScholes.dll
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/ref/BlackScholes.dll
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/BlackScholes.pdb
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/BlackScholes.genruntimeconfig.cache
+/Users/dev/Projects/BlackScholes/bin/Debug/net5.0/MathNet.Numerics.dll
+/Users/dev/Projects/BlackScholes/obj/Debug/net5.0/BlackScholes.csproj.CopyComplete
